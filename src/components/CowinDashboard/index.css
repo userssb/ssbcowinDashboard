@@ -1,0 +1,55 @@
+.bg-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: black;
+}
+.app-cont {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-color: #161625;
+  max-width: 1110px;
+  width: 80%;
+  flex-direction: column;
+}
+.logo-head-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.website-logo {
+  height: 25px;
+}
+.logo-head {
+  color: #2cc6c6;
+  font-size: 15px;
+  font-weight: bold;
+  margin: 10px;
+}
+.title-name {
+  color: #cbd5e1;
+  font-family: roboto;
+  font-size: 17px;
+  margin-left: 20px;
+}
+.vaccination-coverage-cont {
+  background-color: #6c757d;
+  width: 80%;
+  margin: 50px;
+  padding: 20px;
+}
+.chart-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  align-self: center;
+}
+.vaccination-coverage-head {
+  color: #94a3b8;
+  font-size: 15px;
+  font-family: roboto;
+}

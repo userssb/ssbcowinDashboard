@@ -1,0 +1,16 @@
+.vaccination-age-cont {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #1c1c2b;
+  margin-left: 60px;
+  margin-bottom: 20px;
+}
+.heading {
+  color: #94a3b8;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.5;
+  margin-left: 20px;
+}
